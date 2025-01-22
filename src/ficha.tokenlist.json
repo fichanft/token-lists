@@ -1,0 +1,19 @@
+{
+  "name": "Minha Lista de Tokens",
+  "timestamp": "2025-01-22T00:00:00+00:00",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 137,
+      "address": "0xf285E978cA80D0acBAE0d36f3Dd881663D184D92",
+      "symbol": "FICHA",
+      "name": "Ficha Token",
+      "decimals": 0,
+      "logoURI": "https://ipfs.io/ipfs/bafkreibvkexhy4e7j4myahhhirpp6eg4ajsr6egwyrz2x3bwc77e4z6ot4"
+    }
+  ]
+}
